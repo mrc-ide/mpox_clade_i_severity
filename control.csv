@@ -1,0 +1,5 @@
+run,inc_sitrep,only_sitrep,drc_age_sens,exclude_probable,sitrep
+main,0,0,0,0,NA
+no_probable,0,0,0,1,NA
+inc_drc,1,0,0,0,"WHODRC2024-03"
+drc_age_sens,1,0,1,0,"WHODRC2024-03"
